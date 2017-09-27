@@ -1,0 +1,7 @@
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\GorinGrain\GorinGrain-BLL\bin\Debug\GorinGrain-BLL.dll
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\GorinGrain\GorinGrain-BLL\bin\Debug\GorinGrain-BLL.pdb
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\GorinGrain\GorinGrain-BLL\bin\Debug\GorinGrain-DAL.dll
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\GorinGrain\GorinGrain-BLL\bin\Debug\GorinGrain-DAL.pdb
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\GorinGrain\GorinGrain-BLL\obj\Debug\GorinGrain-BLL.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\GorinGrain\GorinGrain-BLL\obj\Debug\GorinGrain-BLL.dll
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\GorinGrain\GorinGrain-BLL\obj\Debug\GorinGrain-BLL.pdb
